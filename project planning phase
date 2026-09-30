@@ -1,1 +1,9 @@
 project planning phase
+In the planning phase, the complete development process of FitBuddy was divided into different tasks.
+First, the user interface was planned for collecting fitness information.
+Next, the backend was planned using Python and FastAPI.
+The Gemini API was selected for generating personalized fitness plans and updating plans based on user feedback.
+SQLite was selected as the database for storing user details and fitness plans.
+SQLAlchemy was planned for connecting the Python application with the database.
+The project was also planned with an admin section where stored users and their fitness plans can be viewed.
+The development was divided into frontend development, backend development, Gemini AI integration, database development, testing and final demonstration.
